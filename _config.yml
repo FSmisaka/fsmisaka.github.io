@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "王羿珧_YiyaoWang"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "王羿珧 Yiyao Wang"
-  pronouns         : "ENFJ  |  Barca C/ARPG xPOP"  
+  pronouns         : "ENFJ | Barca | CRPG | Pop/EDM"  
   bio              : "希望成为一个懂AI的商科人"
   location         : "Beijing"
   employer         : "BUAA_SEM 26'"
@@ -63,7 +63,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "york2004cn_163_com"
+  steam            : "FSmisaka"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
